@@ -1,0 +1,24 @@
+body{
+    background-color: #181C14;
+}
+
+#navbarNav{
+    justify-content: flex-end;
+}
+.hero-section {
+    background-image: url('https://images.unsplash.com/photo-1487790343276-2fe56a7d9439?q=80&w=2067&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 200px 20px;
+}
+
+/* Overlay text and button styling */
+.hero-text {
+    max-width: 600px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    padding: 20px;
+    border-radius: 8px;
+}
